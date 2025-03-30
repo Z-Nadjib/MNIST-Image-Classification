@@ -1,7 +1,7 @@
 # MNIST Image Classification Using CNN, KNN, SVM, and Naive Bayes
 
 
-<img src="header.png" alt="TOC" style="width: auto; max-width: 100%;">
+<img src="header.png" alt="TOC" style="width: auto;">
 
 
 ## Project Overview
